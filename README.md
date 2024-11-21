@@ -3,7 +3,7 @@
 
 - 👋 Witam, jestem @mateusz-bogacz-collegiumwitelona, zwykły student 
 - 👀 Interesuje się C++, Pythonem oraz Linuxem 🐧
-- 🌱 Obecnie prywatnie się uczę C++, administrowania linuxem oraz automatyką 
+- 🌱 Obecnie prywatnie się uczę C++, administrowania linuxem oraz automatyki
 - 📫 Kontakt:
 -   email:  mateusz.bogacz-drewniak@studenci.collegiumwitelona.pl
 
