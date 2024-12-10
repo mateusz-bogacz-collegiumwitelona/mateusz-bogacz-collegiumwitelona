@@ -29,18 +29,39 @@
 <h3>👨‍💻 All of my projects are available at <a href="https://github.com/mateusz-bogacz-collegiumwitelona" target="_blank">GitHub</a></h3>
 
 <h2>🚀 Languages and Tools I Use</h2>
+
+<h3>Programming Languages</h3>
 <div>
-    <h3>Programming Language</h3>
     <a href="#" class="badge"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"></a>
     <a href="#" class="badge"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"></a>
     <a href="#" class="badge"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"></a>
+</div>
+
+<h3>Frontend Development</h3>
+<div>
     <a href="#" class="badge"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"></a>
+    <a href="#" class="badge"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"></a>
+</div>
+
+<h3>Backend Development</h3>
+<div>
+    <a href="#" class="badge"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge"></a>
+</div>
+
+<h3>Window Developer</h3>
+<div>
+    <a href="#" class="badge"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal Badge"></a>
+</div>
+
+<h3>DevOps</h3>
+<div>
+    <a href="#" class="badge"><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Badge"></a>
+</div>
+
+<h3>Database Management</h3>
+<div>
     <a href="#" class="badge"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"></a>
     <a href="#" class="badge"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"></a>
-    <a href="#" class="badge"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal Badge"></a>
-    <a href="#" class="badge"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"></a>
-    <a href="#" class="badge"><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Badge"></a>
-
 </div>
 
 <h2>📧 Contact</h2>
