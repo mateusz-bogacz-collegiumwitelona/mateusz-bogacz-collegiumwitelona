@@ -6,7 +6,7 @@
 <p>⚡ Fun fact I like star wars, anime, brutalist art, philosophy, football, comics, basketball</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
-<p>
+
 <a target="_blank" href="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: inline-block;"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 
 <a target="_blank" href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="display: inline-block;"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
