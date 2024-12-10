@@ -7,7 +7,6 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 
-<>
 
 <a target="_blank" href="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: inline-block;"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 
