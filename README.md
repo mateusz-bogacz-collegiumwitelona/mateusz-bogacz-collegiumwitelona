@@ -36,7 +36,7 @@
 </div>
 
 
-<h3>Operating Systems Developer</h3>
+<h3>Operating Systems</h3>
 <div>
     <a href="#"><img src="https://img.shields.io/badge/windows%20server-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server Badge"></a>  
     <a href="#"><img src="https://img.shields.io/badge/ubuntu%20server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server Badge"></a>
