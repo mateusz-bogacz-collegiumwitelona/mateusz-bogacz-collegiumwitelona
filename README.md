@@ -42,3 +42,12 @@
     <a href="#" class="badge"><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Badge"></a>
 
 </div>
+
+<h2>📧 Contact</h2>
+<p>Email: <a href="mailto:mateusz.bogacz-drewniak@studenci.collegiumwitelona.pl">mateusz.bogacz-drewniak@studenci.collegiumwitelona.pl</a></p>
+<p>GitHub: <a href="https://github.com/mateusz-bogacz-collegiumwitelona" target="_blank">mateusz-bogacz-collegiumwitelona</a></p>
+
+<h2>Thanks for visiting! If you'd like to talk about projects, feel free to contact me. 😄</h2>
+
+</body>
+</html>
