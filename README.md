@@ -2,27 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mateusz Bogacz - Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0 20px;
-            background-color: #f4f4f9;
-        }
-        h1, h2, h4 {
-            color: #333;
-        }
-        a {
-            text-decoration: none;
-        }
-        .badge {
-            display: inline-block;
-            margin: 5px;
-        }
-    </style>
 </head>
 <body>
 
