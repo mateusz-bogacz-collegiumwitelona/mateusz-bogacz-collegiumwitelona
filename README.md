@@ -39,7 +39,7 @@
 <a target="_blank" href="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" style="display: inline-block;"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/></a>
 
 
-<h4>📫 Contact</h4>
+<h2>📫 Contact</h2>
 <p>Email: mateusz.bogacz-drewniak@studenci.collegiumwitelona.pl<p>
 <p>GitHub: https://github.com/mateusz-bogacz-collegiumwitelona<p>
 
