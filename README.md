@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-</head>
-<body>
-
 <h1>Hi 👋, I'm Mateusz</h1>
 
 <h2>About Me</h2>
@@ -14,7 +7,7 @@
 
 <h2>Projects that I am Working On</h2>
 <h4>Battle Royale Game</h4>
-<p>🔭 I contribute to a research circle at my university, focusing on developing a Battle Royale game. My responsibilities include:
+<p>🔭 I contribute to a research club at my university, focusing on developing a Battle Royale game. My responsibilities include:
 <ul>
     <li>Creating the network infrastructure</li>
     <li>Managing program updates using Ansible</li>
