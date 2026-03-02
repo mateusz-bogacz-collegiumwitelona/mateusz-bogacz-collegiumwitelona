@@ -10,12 +10,6 @@
 
 > 🚧 Coming soon — stay tuned!
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusz-bogacz-collegiumwitelona&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=mateusz-bogacz-collegiumwitelona&theme=dark)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mateusz-bogacz-collegiumwitelona)
-
 ## 🚀 Languages and Tools I Use
 
 ### Programming Languages
