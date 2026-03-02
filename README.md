@@ -145,7 +145,7 @@
 
 ## 📧 Contact
 
-- Email: [mateusz.bogacz-drewniak@studenci.collegiumwitelona.pl](mailto:mateusz.bogacz-drewniak@studenci.collegiumwitelona.pl)
+- Email: [mateusz.bogaczdrewniak@proton.me](mailto:mateusz.bogaczdrewniak@proton.me)
 - GitHub: [mateusz-bogacz-collegiumwitelona](https://github.com/mateusz-bogacz-collegiumwitelona)
 - Portfolio: [https://mateusz-bogacz-drewniak.pl/](https://mateusz-bogacz-drewniak.pl/)
 
